@@ -5,7 +5,7 @@
   "engines": {
     "node": "18.16.0"
   },
-  "main": "server.ts",
+  
   "scripts": {
     "start": "npx tsc && node ./www/server.js",
     "start:dev": "node ./www/server.js",
